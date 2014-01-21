@@ -7,3 +7,5 @@ sgd.py implements unregularized and regularized stochastic logistic regression f
 two classes.
 
 bgp.py implements batch gradient descent for linear regression
+
+test
